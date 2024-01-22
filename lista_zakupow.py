@@ -1,4 +1,4 @@
-zakupy = {'Piekarnia':['bułka', 'chleb', 'drożdżowka', 'ciastko'], 'Warzywniak': ['pomidor', 'sałata', 'cukinia', 'cebula'], 'Apteka': ['etopiryna']}
+zakupy = {'Piekarnia':['bułka', 'chleb', 'drożdżowka', 'ciastko'], 'Warzywniak': ['pomidor', 'sałata', 'cukinia', 'cebula'], 'Apteka': ['etopiryna', 'krople do oczu']}
 
 suma = 0
 for key, value in zakupy.items():
